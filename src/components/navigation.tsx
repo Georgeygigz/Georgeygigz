@@ -11,16 +11,13 @@ class Navigation extends React.Component {
                   </HeaderLogo>
                   <NavigationBody>
                     <NavItem >
-                        <a className="nav-item" href="#home">Home</a>
+                        <a className="nav-item" href="#meet-george">Home</a>
                     </NavItem>
                     <NavItem >
-                        <a className="nav-item" href="#about">About</a>
+                        <a className="nav-item" href="#portfolio">About</a>
                     </NavItem>
                     <NavItem >
-                        <a className="nav-item" href="#posts">Posts</a>
-                    </NavItem>
-                    <NavItem >
-                        <a className="nav-item" href="#portfolio">Portfolio</a>
+                        <a className="nav-item" href="#career-objective">Career objectives</a>
                     </NavItem>
                     <NavItem >
                         <a className="nav-item" href="#contact">Contact</a>

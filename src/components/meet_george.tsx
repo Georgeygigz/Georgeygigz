@@ -6,7 +6,7 @@ import George from "../assets/George.jpg";
 class About extends React.Component {
   render() {
     return (
-      <MainBody id="about">
+      <MainBody id="meet-george">
         <AboutBody>
           <MyImage>
             <img id="gigz" src={George} alt="georgey profile pic" />
@@ -15,8 +15,8 @@ class About extends React.Component {
             <Title>Meet Georgey Gigz.</Title>
             <Description>TECH ENTHUSIAST / PROFICIENT IN WEB DEVELOPMENT AND DATA ANALYSIS</Description>
             <TextBody>
-              Meet Georgey Gigz, Software developer at Andela, Most Passionate
-              about technology. Aiming at solving real life problem using tech
+              Meet Georgey Gigz, Software developer at Andela, most passionate
+              about technology. Inspired by solving real life problem using tech
               solution.
             </TextBody>
             <ContactButton>
@@ -63,13 +63,16 @@ const MyImage = styled.div`
   #gigz {
     width: 80%;
     height: auto;
-   
+    border-radius: 2000px;
+    border: 3px solid #363636;
+ 
   }
   @media only screen and (min-width: 600px) {
     #gigz {
       width: 50%;
       height: auto;
-      
+      border-radius: 2000px;
+      border: 3px solid #363636;
     }
   }
   @media only screen and (min-width: 768px) {
@@ -113,6 +116,8 @@ const ContactButton = styled.div`
   .contact-btn:hover {
     background: #746353;
     color: #fff;
+    padding: 5px 40px 5px 40px;
+
   }
 `;
 

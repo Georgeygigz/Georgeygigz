@@ -16,9 +16,9 @@ class Portfolio extends React.Component {
           <img id="gigz" src={education} alt="georgey profile pic" />
 
             <h3>Education</h3>
-            <body>
-              Went to Machakos University and graduated with a Bachelor of
-              science in Computer Science Currently a software developer
+            <body className="article-body">
+              Went to Machakos University and graduated with a Bachelor's degree in
+  Computer Science. Currently a software developer at Andela.
             </body>
           </div>
 
@@ -26,7 +26,7 @@ class Portfolio extends React.Component {
           <img id="gigz" src={goals} alt="georgey profile pic" />
 
           <h3>Goals </h3>
-            <body>
+            <body className="article-body">
               I would like to be a world-class developer who contributes in solving
               real life problem using tech solutions.
             </body>
@@ -34,11 +34,11 @@ class Portfolio extends React.Component {
           <div className="interested">
           <img id="gigz" src={fun} alt="georgey profile pic" />
 
-          <h3>Fun fact In</h3>
-            <body>
+          <h3>Fun fact</h3>
+            <body className="article-body">
               Socializing and hanging around with friends. I am a lover of
               soccer, music instruments, pool, and exploring the Nature
-              and its wonder
+              and its wonder.
             </body>
           </div>
         </Images>

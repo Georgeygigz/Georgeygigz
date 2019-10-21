@@ -9,17 +9,17 @@ import  job from "../assets/job.svg";
 class   CareerObjective extends React.Component {
   render() {
     return (
-      <PortfolioBody id="portfolio">
+      <PortfolioBody id="career-objective">
         <Heading>Career Objective </Heading>
         <Images>
           <div className="interested">
           <img id="gigz" src={skills} alt="george profile pic" />
 
             <h3>Skills</h3>
-            <body>
+            <body className="article-body">
             Good interpersonal skills and communication skills, ability
-             and willingness to work flexibly, quick learner, team player
-              Software developer proficient in Python, React js, Node js
+             and willingness to work flexibly, quick learner, team player.
+              Software developer proficient in Python, React js, Node js with an interest in Data Science.
             </body>
           </div>
 
@@ -27,7 +27,7 @@ class   CareerObjective extends React.Component {
           <img id="gigz" src={career} alt="george profile pic" />
 
           <h3>Career Objective </h3>
-            <body>
+            <body className="article-body">
             To utilize proficient skills and techniques to the
              best of my ability in any institution that is competitive,
               growth oriented and that demands total dedication, hard work
@@ -40,10 +40,10 @@ class   CareerObjective extends React.Component {
           <img id="gigz" src={job} alt="george profile pic" />
 
           <h3>Current Job</h3>
-            <body>
+            <body className="article-body">
             Software developer At Andela. Working on internal product to deliver
             new features, writing unitest and fixing existing bugs.
-            </body>
+            </body >
           </div>
         </Images>
       </PortfolioBody>

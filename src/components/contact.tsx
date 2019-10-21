@@ -12,14 +12,14 @@ import  email from "../assets/email.svg";
 class Contacts extends React.Component {
   render() {
     return (
-      <PortfolioBody id="portfolio">
+      <PortfolioBody id="contact">
         <Heading>Contact me</Heading>
         <Images>
           <div className="interested">
           <img id="gigz" src={phone} alt="george profile pic" />
 
             <h3>Phone</h3>
-            <body>
+            <body className="article-body">
               Call or text <b>
               +254712423207
               +254789324691</b>
@@ -30,18 +30,18 @@ class Contacts extends React.Component {
           <img id="gigz" src={email} alt="george profile pic" />
 
           <h3>Email </h3>
-            <body>
-              Feel free to reach me at any Time
-              <b>georgeymutti@gmail.com</b> 
+            <body className="article-body">
+              Feel free to reach me at any time 
+               <b> georgeymutti@gmail.com</b> 
             </body>
           </div>
           <div className="interested">
           <img id="gigz" src={twitter} alt="georgey profile pic" />
 
           <h3>twitter</h3>
-            <body>
+            <body className="article-body">
               Follow me on twitter
-             <b>@georgeygigz</b> 
+             <b> @georgeygigz</b> 
             </body>
           </div>
 
@@ -49,9 +49,9 @@ class Contacts extends React.Component {
           <img id="gigz" src={linkedin} alt="georgey profile pic" />
 
           <h3>Linkedin</h3>
-            <body>
+            <body className="article-body">
              Lets connect on linkedIn.
-             Click here to connect with me on linkedin
+             Click <a href="https://www.linkedin.com/in/george-mutti-b5a86bba/"> here </a> to connect with me on linkedin.
             </body>
           </div>
 
@@ -59,9 +59,9 @@ class Contacts extends React.Component {
           <img id="gigz" src={github} alt="georgey profile pic" />
 
           <h3>Github</h3>
-            <body>
+            <body className="article-body">
               Lets collaborate to build solutions on existing problem.
-              follow me on github. <b> georgeygigz </b> 
+              Follow me on github. <b> <a href="https://github.com/Georgeygigz" >georgeygigz</a> </b> 
             </body>
           </div>
 
