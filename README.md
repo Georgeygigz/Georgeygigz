@@ -1,2 +1,0 @@
-# portfolio
-Meet Georgey Gigz
