@@ -4,6 +4,8 @@ Meet George Mutti a Full-Stack Engineer from Nairobi, Kenya
 **Georgeygigz/Georgeygigz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- ⚡ Fun fact: I have a tone of activities I can do in my leisure time(Play Piano, chess, football, pool table games, Sing, Adventure)
 -->
 
 - 🔭 I’m currently working on building cost effective tool to be used in reducing Maternal deaths in Kenya
@@ -12,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help in DevOps Career Path
 - 💬 Ask me about Python/Django/Flask/Docker
 - 📫 How to reach me: [George](https://www.linkedin.com/in/george-mutti-b5a86bba/)
-- ⚡ Fun fact: I have a tone of activities I can do in my leisure time(Play Piano, chess, football, pool table games, Sing, Adventure)
+
 
 ## 🧰 Languages and Tools:
 <p align="left">
