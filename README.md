@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python/Django/Flask/Docker
 - 📫 How to reach me: [George](https://www.linkedin.com/in/george-mutti-b5a86bba/)
 
+[![George's github activity graph](https://activity-graph.herokuapp.com/graph?username=Georgeygigz&theme=xcode)](https://git.io/Georgeygigz)
+
 
 ## 🧰 Languages and Tools:
 <p align="left">
@@ -25,5 +27,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![George's github stats](https://github-readme-stats.vercel.app/api?username=GeorgeyGigz&&hide=["contribs","issues"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeyGigz&theme=tokyonight)
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Georgeygigz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Georgeygigz&theme=tokyonight" />
+</p>
