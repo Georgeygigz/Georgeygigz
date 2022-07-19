@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building cost effective tool to be used in reducing Maternal deaths in Kenya
 - 🌱 I’m currently taking new path in DevOps and Cloud Computing
-- 👯 I’m looking to collaborate In open-source projects that improves the well being of people
-- 🤔 I’m looking for help in DevOps Career Path
+<!-- - 👯 I’m looking to collaborate In open-source projects that improves the well being of people -->
+<!-- - 🤔 I’m looking for help in DevOps Career Path -->
 - 💬 Ask me about Python/Django/Flask/Docker
 - 📫 How to reach me: [George](https://www.linkedin.com/in/george-mutti-b5a86bba/)
 
-[![George's github activity graph](https://activity-graph.herokuapp.com/graph?username=Georgeygigz&theme=xcode)](https://git.io/Georgeygigz)
+<!-- [![George's github activity graph](https://activity-graph.herokuapp.com/graph?username=Georgeygigz&theme=xcode)](https://git.io/Georgeygigz) -->
 
 
 ## 🧰 Languages and Tools:
