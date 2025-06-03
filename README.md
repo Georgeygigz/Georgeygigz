@@ -63,7 +63,7 @@ I'm a **Full-Stack Software Engineer** with over **5 years of experience** build
   <img src="https://github-readme-stats.vercel.app/api?username=Georgeygigz&show_icons=true&theme=github_dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgeygigz&layout=compact&theme=github_dark" alt="Top Languages">
   <img src="https://streak-stats.demolab.com?user=Georgeygigz&theme=github-dark" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=Georgeygigz&theme=algolia" alt="GitHub Trophies">
+  <!---<img src="https://github-profile-trophy.vercel.app/?username=Georgeygigz&theme=algolia" alt="GitHub Trophies">-->
 </p>
 
 ---
